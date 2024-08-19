@@ -13,5 +13,5 @@
 ## Conteúdo
 
 - Projeto 1: 
-- Projeto 2: 
+- Projeto 2: Análise do risco de inadimplência dos mutuários
 - Projeto 3: 
