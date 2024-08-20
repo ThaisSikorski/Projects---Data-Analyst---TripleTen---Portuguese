@@ -17,6 +17,6 @@
 - Projeto 3: O que vende um carro
 - Projeto 4: Planos pre-pagos e suas receitas
 - Projeto Integrado: O jogo de sucesso
-- Projeto 6:
+- Projeto 6: As preferências dos passageiros e o impacto de fatores externos nas corridas
 - Projeto 7:
 - Projeto 8:
