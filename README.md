@@ -14,6 +14,6 @@
 
 - Projeto 1: As preferências musicais dos habitantes de Springfild e Shelbyville
 - Projeto 2: Análise do risco de inadimplência dos mutuários
-- Projeto 3: O que vende um carro?
-- Projeto 4:
+- Projeto 3: O que vende um carro
+- Projeto 4: Planos pre-pagos e suas receitas
 - Projeto 5:
