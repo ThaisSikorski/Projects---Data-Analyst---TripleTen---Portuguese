@@ -16,4 +16,7 @@
 - Projeto 2: Análise do risco de inadimplência dos mutuários
 - Projeto 3: O que vende um carro
 - Projeto 4: Planos pre-pagos e suas receitas
-- Projeto 5:
+- Projeto Integrado: O jogo de sucesso
+- Projeto 6:
+- Projeto 7:
+- Projeto 8:
