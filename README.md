@@ -18,5 +18,10 @@
 - Projeto 4: Planos pre-pagos e suas receitas
 - Projeto Integrado: O jogo de sucesso
 - Projeto 6: As preferências dos passageiros e o impacto de fatores externos nas corridas
-- Projeto 7:
-- Projeto 8:
+- Projeto 7: Otimizando as despesas com marketing
+- Projeto 8: Estratégias para Maximizar a Receita da Loja Online
+- Projeto 9:
+- Projeto 10:
+- Projeto 11:
+- Projeto 12:
+- Projeto FINAL:
