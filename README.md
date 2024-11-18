@@ -23,5 +23,5 @@
 - Projeto 9: Pesquisa de Mercado
 - Projeto 10: Comportamento do usuário para o aplicativo
 - Projeto 11: DAS TENDÊNCIAS DOS VÍDEOS NO YOUTUBE - Tableau + PDF 
-- Projeto 12:
+- Projeto 12: Estratégia de Retenção de Clientes
 - Projeto FINAL:
