@@ -21,7 +21,7 @@
 - Projeto 7: Otimizando as despesas com marketing
 - Projeto 8: Estratégias para Maximizar a Receita da Loja Online
 - Projeto 9: Pesquisa de Mercado
-- Projeto 10:
-- Projeto 11:
+- Projeto 10: Comportamento do usuário para o aplicativo
+- Projeto 11: DAS TENDÊNCIAS DOS VÍDEOS NO YOUTUBE - Tableau + PDF 
 - Projeto 12:
 - Projeto FINAL:
